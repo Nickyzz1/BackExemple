@@ -1,0 +1,32 @@
+- smart conceitos da primeira aula de implatação de sistemas
+- manual do user
+- depoy de front, api e banco de dados
+    - alterar url
+
+criar dois repositórios de back e front de vite e node
+https://github.com/devNicolasMarques/ExemploZagoDeployFront.git
+https://github.com/devNicolasMarques/ExemploZagoDeployBack.git
+
+
+para criatr um prpjeto en node tem que ter o sever.js e coloca npm init -y
+npm i express 
+
+diretório raiz é oq está o server
+
+se typscript
+- tsx watch
+- npm i && tsc && prisma generate && prisma db push
+
+se js
+- nn precisa buildarr
+
+
+variaveis de ambiente podem ser solcadas dire4to no render
+
+para fazer rewuisdição agora que dubuiu no render
+https://backexemple.onrender.com/pessoas
+******
+
+npm i mysql2
+
+
