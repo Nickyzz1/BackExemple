@@ -1,6 +1,9 @@
 const express = require('express');
 const app = express();
 const port = 3000;
+const cors = require('cors')
+
+app.use(cors)
 
 const pessoas = [
   { id: 1, nome: 'Ana', idade: 28 },
